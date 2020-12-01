@@ -1,0 +1,72 @@
+{
+  "meme" : {
+    "id" : "meme",
+    "messages" : [ "/decrypt" ],
+    "friends" : [ ]
+  },
+  "mmmme" : {
+    "id" : "mmmme",
+    "messages" : [ "/decrypt" ],
+    "friends" : [ ]
+  },
+  "me" : {
+    "id" : "me",
+    "messages" : [ ],
+    "friends" : [ ]
+  },
+  "meeem" : {
+    "id" : "meeem",
+    "messages" : [ "/decrypt" ],
+    "friends" : [ ]
+  },
+  "Tom" : {
+    "id" : "Tom",
+    "messages" : [ "I have joined" ],
+    "friends" : [ ]
+  },
+  "tets" : {
+    "id" : "tets",
+    "messages" : [ "meme", "oh no", "/sendImage" ],
+    "friends" : [ ]
+  },
+  "tests" : {
+    "id" : "tests",
+    "messages" : [ "you spelled tests wrong" ],
+    "friends" : [ ]
+  },
+  "new" : {
+    "id" : "new",
+    "messages" : [ "hey", "its time to boogie down!" ],
+    "friends" : [ ]
+  },
+  "hey" : {
+    "id" : "hey",
+    "messages" : [ "its time to boogie down!" ],
+    "friends" : [ ]
+  },
+  "coolBeans" : {
+    "id" : "coolBeans",
+    "messages" : [ "ayy", "hello to you!" ],
+    "friends" : [ ]
+  },
+  "myMan" : {
+    "id" : "myMan",
+    "messages" : [ "hello!" ],
+    "friends" : [ ]
+  },
+  "heyhey" : {
+    "id" : "heyhey",
+    "messages" : [ "/sendImage" ],
+    "friends" : [ ]
+  },
+  "433Guy" : {
+    "id" : "433Guy",
+    "messages" : [ "Hi", "/sendImage", "/decrypt" ],
+    "friends" : [ ]
+  },
+  "SWE433Final" : {
+    "id" : "SWE433Final",
+    "messages" : [ "Hi back lol" ],
+    "friends" : [ ]
+  }
+}
